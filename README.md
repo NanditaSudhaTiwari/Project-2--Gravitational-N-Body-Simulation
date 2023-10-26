@@ -1,1 +1,1 @@
-# Project-2--Gravitational-N-Body-Simulation
+# Project 2-Gravitational-N-Body-Simulation
